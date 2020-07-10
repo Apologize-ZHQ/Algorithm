@@ -10,3 +10,6 @@ sort.h文件中包含当前常见的几种排序算法，分别是：
   8. 基数排序
 
 main.c 文件是测试程序 
+
+下面链接详细的讲解了当前常见的几种排序算法
+https://www.cnblogs.com/onepixel/p/7674659.html
